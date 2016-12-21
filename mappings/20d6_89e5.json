@@ -1,0 +1,144 @@
+{
+  "id": "Moga 2 HID (Vendor: 20d6 Product: 89e5)",
+  "mappings": [
+    {
+      "button": "0",
+      "name": "Button A",
+      "mapsTo": {
+        "button": 0
+      }
+    },
+    {
+      "button": "1",
+      "name": "Button B",
+      "mapsTo": {
+        "button": 1
+      }
+    },
+    {
+      "button": "2",
+      "name": "Button X",
+      "mapsTo": {
+        "button": 2
+      }
+    },
+    {
+      "button": "3",
+      "name": "Button Y",
+      "mapsTo": {
+        "button": 3
+      }
+    },
+    {
+      "button": "4",
+      "name": "Button Left Shoulder",
+      "mapsTo": {
+        "button": 4
+      }
+    },
+    {
+      "button": "5",
+      "name": "Button Right Shoulder",
+      "mapsTo": {
+        "button": 5
+      }
+    },
+    {
+      "button": "6",
+      "name": "Button Left Trigger",
+      "mapsTo": {}
+    },
+    {
+      "button": "7",
+      "name": "Button Right Trigger",
+      "mapsTo": {}
+    },
+    {
+      "button": "8",
+      "name": "Button Select / Back",
+      "mapsTo": {}
+    },
+    {
+      "button": "9",
+      "name": "Button Start / Forward",
+      "mapsTo": {
+        "button": 6
+      }
+    },
+    {
+      "button": "10",
+      "name": "Button Press Left Analog Stick",
+      "mapsTo": {
+        "button": 7
+      }
+    },
+    {
+      "button": "11",
+      "name": "Button Press Right Analog Stick",
+      "mapsTo": {
+        "button": 8
+      }
+    },
+    {
+      "button": "12",
+      "name": "Button DPad Up",
+      "mapsTo": {
+        "axis": "7-"
+      }
+    },
+    {
+      "button": "13",
+      "name": "Button DPad Down",
+      "mapsTo": {
+        "axis": "7+"
+      }
+    },
+    {
+      "button": "14",
+      "name": "Button DPad Left",
+      "mapsTo": {
+        "axis": "6-"
+      }
+    },
+    {
+      "button": "15",
+      "name": "Button Dpad Right",
+      "mapsTo": {
+        "axis": "6+"
+      }
+    },
+    {
+      "button": "16",
+      "name": "Button Logo Button",
+      "mapsTo": {}
+    },
+    {
+      "axis": "0",
+      "name": "Axis Left Analog Stick Horizontal",
+      "mapsTo": {
+        "axis": "0-"
+      }
+    },
+    {
+      "axis": "1",
+      "name": "Axis Left Analog Stick Vertical",
+      "mapsTo": {
+        "axis": "1-"
+      }
+    },
+    {
+      "axis": "2",
+      "name": "Axis Right Analog Stick Horizontal",
+      "mapsTo": {
+        "axis": "2-"
+      }
+    },
+    {
+      "axis": "3",
+      "name": "Axis Right Analog Stick Vertical",
+      "mapsTo": {
+        "axis": "3-"
+      }
+    }
+  ]
+}
